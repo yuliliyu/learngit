@@ -3,4 +3,4 @@ Git is free software.
 Git is free software distributed under the GPL.
 Creating a new branch is quick.
 
-a and b
+a or b
